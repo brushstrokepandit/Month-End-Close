@@ -1,9 +1,9 @@
-# Month-End Close Simulation
+# Month End Close Simulation
 
 **File:** `Month_End_Close_Oct2026.xlsx` | **Data:** synthetic, INR | **Company:** fictional trading business
 
 ## Objective
-Simulate the monthly accounting close end to end: post transactions, make month-end adjustments, produce a trial balance and financial statements, and run control checks before sign-off.
+Simulate the monthly accounting close end to end: post transactions, make month end adjustments, produce a trial balance and financial statements, and run control checks before sign-off.
 
 ## Flow
 `Chart_of_Accounts` -> `Journal` (single source of truth) -> `General_Ledger` and `Trial_Balance` -> `Income_Statement` and `Balance_Sheet` -> `Close_Checks`
