@@ -1,4 +1,4 @@
-# 2. Month-End Close Simulation (October 2026)
+# Month-End Close Simulation (October 2026)
 
 **File:** `Month_End_Close_Oct2026.xlsx` | **Data:** synthetic, INR | **Company:** fictional trading business
 
